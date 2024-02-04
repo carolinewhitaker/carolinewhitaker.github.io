@@ -38,8 +38,8 @@ font-family: 'Open Sans', sans-serif;
 
 h1 {
     font-family: 'Playfair Display', serif;
-    font-size: 80px;
-    line-height: 70px;
+    font-size: 120px;
+    line-height: 100px;
 }
 
 h4 {
@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/OTwatercolor1variation.png);
+    background: url(../img/option1.webp);
     background-size: cover;
     height: 100vh;
 }
@@ -311,7 +311,7 @@ a.active {
 
 .about-border {
     position: absolute;
-    border: 10px solid #425BB5;
+    border: 10px solid #E46E25;
     width: 400px;
     height: 400px;
     top: 40px;
